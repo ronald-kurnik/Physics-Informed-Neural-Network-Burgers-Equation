@@ -1,3 +1,3 @@
 # Physics Informed Neural Network for Burger's Equation
-## Using PyTorch
+![Equation](Eqn.png)
 ![Results](BurgersEqn.png)
