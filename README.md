@@ -1,3 +1,3 @@
 # Physics Informed Neural Network for Burger's Equation
-![Equation](Eqn.png)
+![Equation](Eqn.JPG)
 ![Results](BurgersEqn.png)
